@@ -111,3 +111,13 @@
 | `ip address 192.168.40.1 255.255.255.0` | Assign IP address 192.168.40.1 with subnet mask 255.255.255.0 to the subinterface. |
 | `no shutdown`                      | Enable the subinterface.                                              |
 
+## 10- DHCP
+
+| Command                            | Description                                                          |
+|------------------------------------|----------------------------------------------------------------------|
+| `int g0/1`                         | Enter interface configuration mode for GigabitEthernet 0/1.          |
+| `ip dhcp pool vlan20`              | Create and enter DHCP pool configuration mode for VLAN 20.           |
+| `network 192.168.20.0 255.255.255.0` | Define the network range for the DHCP pool.                           |
+| `default-router 192.168.20.1`      | Specify the default gateway for the DHCP clients.                    |
+| `dns-server 0.0.0.0`               | Specify the DNS server address for the DHCP clients.                 |
+| `exit`                             | Exit DHCP pool configuration mode.                                   |
