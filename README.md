@@ -7,36 +7,29 @@
 
 # Índice
 
-### [1- Subnetting and VLSM  ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/intro.md)
-- Ipv4 , Ipv6
+### [1- IPv4 & IPv6  ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/intro.md)
+
+### [2- Subnetting and VLSM  ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/intro.md)
 - Subnetting
 - VLSM (Variable Length Subnet Masking)
 
-### [2- Switching ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/instalacion.md)
+### [3- Switching ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/instalacion.md)
+- Basic Configuration
+- VLAN Creation
+- Interfaces Management (Trunking , Switchport)
+- VTP
+- VLAN IP Configuration
+- Port Security Configuration
+- SSH
+- Etherchannel
+- Router on Stick
 
 
-
-
-
-
-
-
-
-
-
-
-### [3- Routing ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/deb-ubuntu.md)
+### [4- Routing ](https://github.com/ciscoAnass/CCNA-1/Routing.md)
 - Basic S
 
 
-### [4- Gestión de Procesos en WSL  ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/proc.md)
-- Monitoreo y administración de procesos en WSL
-- Integración de comandos de Windows en WSL y viceversa
-- Herramientas y comandos útiles para la administración en WSL
-
 ***
-
-### 
 
 ### Referencias
 
