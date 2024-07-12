@@ -11,8 +11,8 @@
 ### [3- Switching ](https://github.com/ciscoAnass/CCNA-1/blob/main/switching.md)
 - Basic Configuration
 - VLAN Creation
-- Interfaces Management (Trunking , Switchport)
 - VTP
+- Interfaces Management (Trunking , Switchport)
 - VLAN IP Configuration
 - Port Security Configuration
 - SSH
