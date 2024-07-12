@@ -1,6 +1,8 @@
 # Index
 
 ### [1- IPv4 & IPv6  ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/intro.md)
+- Internet Protocol Version 4
+- Internet Protocol Version 6
 
 ### [2- Subnetting and VLSM  ](https://github.com/ciscoAnass/Windows-SubSystem-Linux-WSL/blob/main/intro.md)
 - Subnetting
