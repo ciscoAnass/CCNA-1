@@ -26,4 +26,4 @@
 
 ### Referencias
 
-- **[Referencia 1 : wikipedia.org](https://en.wikipedia.org/)
+- [Referencia 1 : wikipedia.org](https://en.wikipedia.org/)
