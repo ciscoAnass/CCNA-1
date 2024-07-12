@@ -21,7 +21,12 @@
 
 
 ### [4- Routing ](https://github.com/ciscoAnass/CCNA-1/blob/main/routing.md)
-- Basic S
+- STATIC Route 
+- PPP (PAP + CHAP)
+- RIPV2
+- BGP
+- EIGRP
+- OSPF
 
 
 ***
